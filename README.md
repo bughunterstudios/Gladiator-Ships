@@ -10,6 +10,7 @@ The physics, rendering, and AI are all created from scratch.
 
 **Email**
 jacob.i.marks96@gmail.com
+
 jacob.marks@student.nmt.edu
 
 **LinkedIn**
