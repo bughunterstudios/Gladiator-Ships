@@ -9,6 +9,7 @@ The physics, rendering, and AI are all created from scratch.
 ![alt text](screenshot2.png "Larger ships means less on each team.")
 
 **Email**
+jacob.i.marks96@gmail.com
 jacob.marks@student.nmt.edu
 
 **LinkedIn**
